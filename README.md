@@ -4,7 +4,7 @@ Este projeto utiliza HTML e CSS para criar um item de lista estilizado, que simu
 
 Principais Pontos:
 
-Estrutura HTML: Um elemento <ul> (lista) com um único item <li>, contendo um ícone e informações de perfil.
+Estrutura HTML: Um elemento (<ul>) (lista) com um único item (<li>), contendo um ícone e informações de perfil.
 
 Estilo Flexbox: O layout usa flexbox para alinhar o ícone e o texto lado a lado.
 
@@ -22,7 +22,7 @@ This project uses HTML and CSS to create a styled list item that simulates a pro
 
 Key Points:
 
-HTML Structure: A <ul> (list) element with a single <li> item containing an icon and profile information.
+HTML Structure: A (<ul>) (list) element with a single (<li>) item containing an icon and profile information.
 
 Flexbox Layout: The layout uses flexbox to align the icon and text side by side.
 
