@@ -11,7 +11,7 @@ Estilo Flexbox: O layout usa flexbox para alinhar o ícone e o texto lado a lado
 Responsividade: A página é centralizada vertical e horizontalmente para uma melhor apresentação, independentemente do tamanho da tela.
 Sombra e Bordas: Aplicadas para criar um design mais suave e moderno.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 Description Code
 
