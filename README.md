@@ -26,6 +26,9 @@ HTML Structure: A (ul) (list) element with a single (li) item containing an icon
 
 Flexbox Layout: The layout uses flexbox to align the icon and text side by side.
 
+![Resultado](https://github.com/user-attachments/assets/af29cf56-61ff-4399-95e1-a83a1d2123f3)
+
+
 Circular Icon: The user icon is rounded to simulate a circular shape.
 
 Responsiveness: The page is vertically and horizontally centered for better presentation on different screen sizes.
